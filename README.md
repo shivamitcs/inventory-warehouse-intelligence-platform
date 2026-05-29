@@ -21,7 +21,9 @@ Enterprise Inventory & Warehouse Intelligence Platform enabling inventory visibi
 
 ## 🌐 Live Platform
 
-🔗 https://inventory.shivamitconsultancy.com/
+Experience the platform in action:
+
+**Live Demo:** https://inventory.shivamitconsultancy.com/
 
 ---
 
@@ -150,24 +152,25 @@ Capabilities include:
 
 ### Frontend Engineering
 
-Frontend
-• Angular 17
-• TypeScript 5.2
-• RxJS
-• Angular Router
+- Angular 17
+- TypeScript 5.2
+- RxJS
+- Angular Router
 
-UI & Experience
-• Tailwind CSS 3.4
-• GSAP 3.12.5
-• Lottie Web
-• Angular Animations
-• CSS Animations
-• Google Fonts
+### UI & Experience
 
-Development
-• Angular CLI
-• Node.js
-• npm / Yarn
+- Tailwind CSS 3.4
+- GSAP 3.12.5
+- Lottie Web
+- Angular Animations
+- CSS Animations
+- Google Fonts
+
+### Development
+
+- Angular CLI
+- Node.js
+- npm / Yarn
 
 ---
 
@@ -274,28 +277,6 @@ The platform delivers real-time inventory visibility, warehouse intelligence, su
 <p align="center">
   <img src="./assets/screenshots/Settings-dark.png" width="100%" alt="Warehouse Settings"/>
 </p>
-
----
-
-### User Experience
-
-* Responsive Design
-* Glassmorphism UI
-* Dark Mode Support
-* Interactive Dashboards
-* Real-Time Data Visualizations
-* Enterprise Navigation System
-
----
-
-### Operational Analytics
-
-* KPI Monitoring
-* Inventory Health Metrics
-* Warehouse Analytics
-* Supplier Performance Analytics
-* Inventory Flow Reporting
-* Operational Dashboards
 
 ---
 
