@@ -9,6 +9,20 @@
 
 Enterprise Inventory & Warehouse Intelligence Platform enabling inventory visibility, warehouse operations, supplier intelligence, procurement workflows, and operational analytics.
 
+<p align="center">
+  <img
+    src="./assets/branding/Inventory-and-warehouse-banner.png"
+    width="100%"
+    alt="Inventory Warehouse Intelligence Platform"
+  />
+</p>
+
+---
+
+## 🌐 Live Platform
+
+🔗 https://inventory.shivamitconsultancy.com/
+
 ---
 
 ## 🌐 Platform Vision
@@ -136,14 +150,40 @@ Capabilities include:
 
 ### Frontend Engineering
 
-* Angular 17
-* TypeScript
-* RxJS
-* Angular Router
-* Tailwind CSS
-* GSAP
-* Lottie Web
-* Angular Animations
+Frontend
+• Angular 17
+• TypeScript 5.2
+• RxJS
+• Angular Router
+
+UI & Experience
+• Tailwind CSS 3.4
+• GSAP 3.12.5
+• Lottie Web
+• Angular Animations
+• CSS Animations
+• Google Fonts
+
+Development
+• Angular CLI
+• Node.js
+• npm / Yarn
+
+---
+
+## 🏗️ System Architecture
+
+The platform follows a modular inventory and warehouse operations architecture designed to support inventory visibility, warehouse management, supplier intelligence, operational monitoring, and business analytics within a scalable enterprise environment.
+
+The architecture centralizes inventory operations, warehouse workflows, supplier collaboration, and operational insights into a unified business platform engineered for operational efficiency and decision-making.
+
+<p align="center">
+  <img
+    src="./assets/architecture/Inventory-system-architecture.png"
+    width="100%"
+    alt="Inventory Warehouse Intelligence Platform System Architecture"
+  />
+</p>
 
 ---
 
@@ -259,34 +299,6 @@ The platform delivers real-time inventory visibility, warehouse intelligence, su
 
 ---
 
-## 📸 Platform Screenshots
-
-### Inventory Intelligence Dashboard
-
-Real-time inventory visibility, KPI monitoring, stock health tracking, and operational analytics.
-
-### Warehouse Operations Dashboard
-
-Warehouse capacity monitoring, inventory flow analytics, shipment visibility, and operational performance tracking.
-
-### Product & Inventory Management
-
-Comprehensive product inventory management with stock monitoring, categorization, and inventory controls.
-
-### Supplier Intelligence Platform
-
-Supplier performance analytics, reliability monitoring, fulfillment visibility, and supplier scorecards.
-
-### Operational Alerts & Monitoring
-
-Low stock alerts, expiry notifications, reorder workflows, and operational monitoring.
-
-### Operations Configuration
-
-Warehouse configuration, threshold management, and notification preferences.
-
----
-
 ## 🔐 Security Architecture
 
 The platform incorporates enterprise-grade operational security controls.
@@ -350,6 +362,19 @@ The solution enables organizations to:
 
 ---
 
+## 🎯 Platform Focus Areas
+
+- Inventory Management
+- Warehouse Operations
+- Supplier Intelligence
+- Procurement Workflows
+- Supply Chain Visibility
+- Operational Analytics
+- Inventory Optimization
+- Enterprise Operations
+
+---
+
 ## 🎯 Business Use Cases
 
 * Inventory Management
@@ -406,6 +431,18 @@ The solution enables organizations to:
 * Containerization Ready
 * Enterprise Infrastructure Support
 * Production Deployment Workflows
+
+---
+
+## Repository Structure
+
+```txt
+assets/
+├── architecture/
+├── screenshots/
+├── workflows/
+└── branding/
+```
 
 ---
 
