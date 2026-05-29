@@ -147,6 +147,96 @@ Capabilities include:
 
 ---
 
+## 📸 Platform Preview
+
+Modern inventory and warehouse operations engineered for inventory teams, warehouse managers, procurement teams, and operational decision-makers.
+
+The platform delivers real-time inventory visibility, warehouse intelligence, supplier performance analytics, operational monitoring, and intelligent business workflows through a centralized enterprise experience.
+
+---
+
+# 🌐 Platform Screenshots
+
+### 📊 Inventory Intelligence Dashboard
+
+<p align="center">
+  <img src="./assets/screenshots/dashboard-overview.png.png" width="100%" alt="Inventory Intelligence Dashboard"/>
+</p>
+
+---
+
+### 📈 Inventory Analytics & Operational Intelligence
+
+<p align="center">
+  <img src="./assets/screenshots/dashboard-analytics.png.png" width="100%" alt="Inventory Analytics Dashboard"/>
+</p>
+
+---
+
+### 🚚 Warehouse Operations & Activity Monitoring
+
+<p align="center">
+  <img src="./assets/screenshots/dashboard-activity.png.png" width="100%" alt="Warehouse Operations"/>
+</p>
+
+---
+
+### 🤖 Operational Intelligence & Recommendations
+
+<p align="center">
+  <img src="./assets/screenshots/dashboard-ai-features.png.png" width="100%" alt="Operational Intelligence"/>
+</p>
+
+---
+
+### 📦 Product & Inventory Management
+
+<p align="center">
+  <img src="./assets/screenshots/Products-dark.png" width="100%" alt="Products & Stock Management"/>
+</p>
+
+---
+
+### 🤝 Supplier Intelligence Platform
+
+<p align="center">
+  <img src="./assets/screenshots/suppliers-overview.png" width="100%" alt="Supplier Intelligence"/>
+</p>
+
+---
+
+### 📊 Supplier Performance Analytics
+
+<p align="center">
+  <img src="./assets/screenshots/suppliers-performance.png" width="100%" alt="Supplier Performance"/>
+</p>
+
+---
+
+### 🏢 Supplier Risk & Compliance Monitoring
+
+<p align="center">
+  <img src="./assets/screenshots/suppliers-analytics-activity.png" width="100%" alt="Supplier Analytics"/>
+</p>
+
+---
+
+### 🚨 Operational Alerts & Reorder Management
+
+<p align="center">
+  <img src="./assets/screenshots/Alert-dark.png" width="100%" alt="Alert Management"/>
+</p>
+
+---
+
+### ⚙️ Warehouse Configuration & Settings
+
+<p align="center">
+  <img src="./assets/screenshots/Settings-dark.png" width="100%" alt="Warehouse Settings"/>
+</p>
+
+---
+
 ### User Experience
 
 * Responsive Design
