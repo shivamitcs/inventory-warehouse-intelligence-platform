@@ -1,4 +1,4 @@
-# 📦 Inventory Warehouse Intelligence Platform
+# Inventory Warehouse Intelligence Platform
 
 ![Angular](https://img.shields.io/badge/Angular-17-red)
 ![TypeScript](https://img.shields.io/badge/TypeScript-5.2-blue)
@@ -11,9 +11,7 @@ Enterprise Inventory & Warehouse Intelligence Platform enabling inventory visibi
 
 <p align="center">
   <img
-    src="./assets/branding/Inventory-and-warehouse-banner.png"
-    width="100%"
-    alt="Inventory Warehouse Intelligence Platform"
+    src="./assets/branding/Inventory-and-warehouse-banner.png" width="100%" alt="Inventory Warehouse Intelligence Platform"
   />
 </p>
 
