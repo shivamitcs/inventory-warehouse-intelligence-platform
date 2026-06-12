@@ -10,9 +10,7 @@
 Enterprise Inventory & Warehouse Intelligence Platform enabling inventory visibility, warehouse operations, supplier intelligence, procurement workflows, and operational analytics.
 
 <p align="center">
-  <img
-    src="./assets/branding/Inventory-and-warehouse-banner.png" width="100%" alt="Inventory Warehouse Intelligence Platform"
-  />
+  <img src="./assets/branding/Inventory-and-warehouse-banner.png" width="100%" alt="Inventory Warehouse Intelligence Platform"/>
 </p>
 
 ---
@@ -190,11 +188,7 @@ The platform follows a modular inventory and warehouse operations architecture d
 The architecture centralizes inventory operations, warehouse workflows, supplier collaboration, and operational insights into a unified business platform engineered for operational efficiency and decision-making.
 
 <p align="center">
-  <img
-    src="./assets/architecture/Inventory-system-architecture.png"
-    width="100%"
-    alt="Inventory Warehouse Intelligence Platform System Architecture"
-  />
+  <img src="./assets/architecture/Inventory-system-architecture.png" width="100%" alt="Inventory Warehouse Intelligence Platform System Architecture"/>
 </p>
 
 ---
