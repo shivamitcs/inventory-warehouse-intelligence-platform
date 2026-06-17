@@ -12,7 +12,7 @@ Enterprise Inventory & Warehouse Intelligence Platform enabling inventory visibi
 <p align="center">
   <img src="./assets/branding/Inventory-and-warehouse-banner.png" width="100%" alt="Inventory Warehouse Intelligence Platform"/>
 </p>
-
+ 
 ---
 
 ## 🌐 Live Platform
