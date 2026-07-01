@@ -10,7 +10,7 @@
 Enterprise Inventory & Warehouse Intelligence Platform enabling inventory visibility, warehouse operations, supplier intelligence, procurement workflows, and operational analytics.
 
 <p align="center">
-  <img src="./assets/branding/Inventory-and-warehouse-banner.png" width="100%" alt="Inventory Warehouse Intelligence Platform"/>
+  <img src="./assets/branding/Inventory-and-warehouse-banner.png" width="100%" alt="Inventory Warehouse Intelligence Platform" />
 </p>
  
 ---
